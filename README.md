@@ -1,0 +1,1 @@
+# adobe-xd-photography-template
