@@ -15,11 +15,11 @@ CSS Grids was particularly challenging and used this [complete guide](https://cs
 Not exactly going for pixel perfect but a good-enough approximation of the layout build. I also timeboxed myself to _complete_ this in 4-8 hours (on and off in the span of two days).
 
 ## Tools Used
-- **Adobe XD** adobe.com/products/xd
+- **Adobe XD** [adobe.com/products/xd](https://adobe.com/products/xd)
   - Mainly used for reviewing the comp, inspecting design elements and exporting some of the design assets
-- **Icon Fonts** icofont.com
+- **Icon Fonts** [icofont.com](https://icofont.com)
   - Feels overkill but I needed something quick to display the right arrow and social icons
-- **Images** unsplash.com
+- **Images** [unsplash.com](https://unsplash.com)
 
 ## Caveats
 I only took the Desktop viewport into account. It's _responsive_ to a point. 😅
