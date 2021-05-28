@@ -8,11 +8,11 @@ TL;DR: Build this awesome XD template made by [@owltastic](https://www.owltastic
 [Download XD template](https://creativecloud.adobe.com/discover/article/design-your-own-creative-portfolio-in-adobe-xd)
 
 ## Why?
-I thought this the opportune project to learn more about CSS attributes/methodologies I haven't incorporated into personal projects. It helps me understand new concepts and retain new discovery/learnings: namely, [CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/var()) and [CSS Grids](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout).
+I thought this was an opportune project to learn more about CSS attributes/methodologies that I haven't incorporated into personal projects. It helped me understand new concepts and retain new discovery/learnings: namely, [CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/var()) [CSS Grids](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout).
 
-CSS Grids was particularly challenging and used this [complete guide](https://css-tricks.com/snippets/css/complete-guide-grid/) to help me achieve some of the layout's challenges. I found the usage of `grid-template-areas` helpful and the ideal way to render the masonry-type layout gallery.
+CSS Grids was particularly challenging and I used this [complete guide](https://css-tricks.com/snippets/css/complete-guide-grid/) to help me achieve some of the layout's challenges. I found the usage of `grid-template-areas` helpful and the ideal way to render the masonry-type layout gallery.
 
-Not exactly going for pixel perfect but a good-enough approximation of the layout build. I also timeboxed myself to _complete_ this in 4-8 hours (on and off in the span of two days).
+I wasn't exactly going for pixel perfect but a good-enough approximation of the layout build. I also timeboxed myself to _complete_ this in 4-8 hours (on and off in the span of two days).
 
 ## Tools Used
 - **Adobe XD** [adobe.com/products/xd](https://adobe.com/products/xd)
@@ -25,4 +25,4 @@ Not exactly going for pixel perfect but a good-enough approximation of the layou
 I only took the Desktop viewport into account. It's _responsive_ to a point. 😅
 
 ## What's next?
-Perhaps if I have a mobile comp to reference, I'd definitely iterate and build that next. Also, build the interior/sub pages.
+Perhaps if I have a mobile comp to reference, I could definitely iterate and build that next. Also, build the interior/sub pages.
