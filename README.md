@@ -8,7 +8,7 @@ TL;DR: Build this awesome XD template made by [@owltastic](https://www.owltastic
 [Download XD template](https://creativecloud.adobe.com/discover/article/design-your-own-creative-portfolio-in-adobe-xd)
 
 ## Why?
-I thought this was an opportune project to learn more about CSS attributes/methodologies that I haven't incorporated into personal projects. It helped me understand new concepts and retain new discovery/learnings: namely, [CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/var()) [CSS Grids](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout).
+I thought this was an opportune project to learn more about CSS attributes/methodologies that I haven't incorporated into personal projects. It helped me understand new concepts and retain new discovery/learnings: namely, [CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/var()) and [CSS Grids](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout).
 
 CSS Grids was particularly challenging and I used this [complete guide](https://css-tricks.com/snippets/css/complete-guide-grid/) to help me achieve some of the layout's challenges. I found the usage of `grid-template-areas` helpful and the ideal way to render the masonry-type layout gallery.
 
